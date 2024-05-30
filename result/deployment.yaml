@@ -19,7 +19,7 @@ spec:
         app: result
     spec:
       containers:
-      - image: schoolofdevops/vote-result
+      - image: etahmom/vote-result
         name: vote-result
         resources: {}
 status: {}
