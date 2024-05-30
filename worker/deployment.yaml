@@ -19,7 +19,7 @@ spec:
         app: worker
     spec:
       containers:
-      - image: schoolofdevops/worker:latest
+      - image: etahmom/worker:latest
         name: worker
         resources: {}
 status: {}
