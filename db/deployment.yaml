@@ -19,7 +19,7 @@ spec:
         app: db
     spec:
       containers:
-      - image: postgres:9.4
+      - image: postgres:latest
         name: postgres
         resources: {}
 status: {}
