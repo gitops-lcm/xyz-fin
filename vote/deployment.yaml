@@ -19,7 +19,7 @@ spec:
         app: vote
     spec:
       containers:
-      - image: etahmom/vote:latest
+      - image: etahmom/vote:v7
         name: vote
         resources: {}
 status: {}
